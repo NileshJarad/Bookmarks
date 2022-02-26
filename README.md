@@ -6,3 +6,6 @@
 
 ### Fastlane
 - [x] https://docs.fastlane.tools/
+
+### Leaks and Profiler
+- [x] https://www.youtube.com/watch?v=kHHOhPPRytc&ab_channel=SquareDeveloper
