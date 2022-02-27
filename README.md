@@ -8,4 +8,5 @@
 - [x] https://docs.fastlane.tools/
 
 ### Leaks and Profiler
-- [x] https://www.youtube.com/watch?v=kHHOhPPRytc&ab_channel=SquareDeveloper
+- [ ] https://www.youtube.com/watch?v=kHHOhPPRytc&ab_channel=SquareDeveloper
+- [ ] https://www.raywenderlich.com/4690472-memory-leaks-in-android#toc-anchor-004
